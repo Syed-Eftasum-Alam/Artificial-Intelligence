@@ -1,0 +1,1 @@
+print("This is basic Python Practice")
